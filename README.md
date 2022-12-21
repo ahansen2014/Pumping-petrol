@@ -14,3 +14,5 @@ App should be written in a single file.
 ### Scope
 Formatting the output to $x.yy is not in scope.
 
+### UI
+![alt text](UI design.jpg)
